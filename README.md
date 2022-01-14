@@ -5,8 +5,14 @@ implementando servicio apirest.
 
 Prueba Técnica :
 Empresa: Software  Estrategico
+
+
+
 Introducción :
 Este repositorio consiste en mostrar las habilidades técnicas (Springbook-Java) a travéz de la resolución de los problemas planteados .
+
+
+
 
 Tecnologías y patrones de diseño empleados.
 
@@ -51,6 +57,7 @@ Para compilar el proyecto api utilice maven. Puede utilizar el intellij idea, ID
 Script para crear la Base de dato y las tablas en mysql.
 
 Nombre de la base de datos: envio
+![sss](https://user-images.githubusercontent.com/89054795/149599251-9b41804c-cdaf-4ddd-ad5b-55500a962ebd.png)
 
 
 CREATE TABLE `bodega` (
@@ -173,4 +180,4 @@ ALTER TABLE `terrestre`
   ADD KEY `fk_producto_terrestre` (`id_producto_terrestre`),
   ADD KEY `fk_clientes` (`id_cliente`);
 
-
+![sss](https://user-images.githubusercontent.com/89054795/149599251-9b41804c-cdaf-4ddd-ad5b-55500a962ebd.png)
