@@ -180,4 +180,3 @@ ALTER TABLE `terrestre`
   ADD KEY `fk_producto_terrestre` (`id_producto_terrestre`),
   ADD KEY `fk_clientes` (`id_cliente`);
 
-![sss](https://user-images.githubusercontent.com/89054795/149599251-9b41804c-cdaf-4ddd-ad5b-55500a962ebd.png)
