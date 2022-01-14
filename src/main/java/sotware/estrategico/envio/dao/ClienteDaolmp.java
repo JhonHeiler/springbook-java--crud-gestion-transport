@@ -28,6 +28,7 @@ public class ClienteDaolmp implements ClienteDao{
     public void eliminar(Long id){
         Cliente cliente = entityManager.find(Cliente.class, id);
         entityManager.remove(cliente);
+        // PRUEBA
     }
 
 
