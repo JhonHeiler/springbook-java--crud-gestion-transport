@@ -19,12 +19,19 @@ Este repositorio consiste en mostrar las habilidades técnicas (Springbook-Java)
 TECNOLOGÍA Y PATRONES DE DISEÑO EMPLEADO.
 
 .Patron de diseño -> Inyección de dependencia.
+
 .Estandar JWT -> Control de sessione de usuarios 
+
 .Rest con el framework -> springbook
+
 .Mapeo objeto-relacional -> Hibernate
+
 .Repositorios de git
+
 .HTML
+
 .JAVASCRIPT
+
 .CSS
 
 
