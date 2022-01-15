@@ -64,6 +64,9 @@ Script para crear la Base de dato y las tablas en mysql.
 Nombre de la base de datos: envio
 ![sss](https://user-images.githubusercontent.com/89054795/149599251-9b41804c-cdaf-4ddd-ad5b-55500a962ebd.png)
 
+![11](https://user-images.githubusercontent.com/89054795/149599807-1cd62272-dd2c-49a7-8d3b-064bffbb0960.png)
+
+
 
 CREATE TABLE `bodega` (
   `id_bodega` int(11) NOT NULL,
