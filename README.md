@@ -83,7 +83,7 @@ REGISTRAR CLIENTES
 ![11](https://user-images.githubusercontent.com/89054795/149599807-1cd62272-dd2c-49a7-8d3b-064bffbb0960.png)
 
 
-LISTAR CLIENTES
+LISTADO CLIENTES
 ![ARR](https://user-images.githubusercontent.com/89054795/149623342-bd910046-7ab8-49b5-8ccc-d4b5031897b5.png)
 
 
