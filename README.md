@@ -57,10 +57,18 @@ static: Frontend (consumidor de Api Rest).
 
 CONFIGURACIÓN Y EJECUCIÓN.
 Para compilar el proyecto api utilice maven. Puede utilizar el intellij idea, IDE eclipse o Spring Tool Suit para compilar o ejecutar. Este levantará el servicio por el puerto 8080. Este proyecto conectará a una base de datos Mysql. Para compilar el proyecto cliente utilice node.
+
+
+
+PAGINA PRINCIPAL  (INICIO DE SESSION)
 ![ddd](https://user-images.githubusercontent.com/89054795/149599681-c21666c8-d778-446f-8947-ce47df0e79ef.png)
 
 
 ![11](https://user-images.githubusercontent.com/89054795/149599807-1cd62272-dd2c-49a7-8d3b-064bffbb0960.png)
+
+
+![ARR](https://user-images.githubusercontent.com/89054795/149623342-bd910046-7ab8-49b5-8ccc-d4b5031897b5.png)
+
 
 
 Script para crear la Base de dato y las tablas en mysql.
