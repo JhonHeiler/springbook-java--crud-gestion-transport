@@ -64,10 +64,19 @@ PAGINA PRINCIPAL  (INICIO DE SESSION)
 ![ddd](https://user-images.githubusercontent.com/89054795/149599681-c21666c8-d778-446f-8947-ce47df0e79ef.png)
 
 
+REGISTRAR CLIENTES
 ![11](https://user-images.githubusercontent.com/89054795/149599807-1cd62272-dd2c-49a7-8d3b-064bffbb0960.png)
 
 
+LISTAR CLIENTES
 ![ARR](https://user-images.githubusercontent.com/89054795/149623342-bd910046-7ab8-49b5-8ccc-d4b5031897b5.png)
+
+
+
+ENVIOS
+
+![KKKK](https://user-images.githubusercontent.com/89054795/149623489-df9d6135-cbfd-4db5-a3ee-e1438e8211ea.png)
+
 
 
 
