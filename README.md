@@ -58,13 +58,14 @@ Para compilar el proyecto api utilice maven. Puede utilizar el intellij idea, ID
 ![ddd](https://user-images.githubusercontent.com/89054795/149599681-c21666c8-d778-446f-8947-ce47df0e79ef.png)
 
 
+![11](https://user-images.githubusercontent.com/89054795/149599807-1cd62272-dd2c-49a7-8d3b-064bffbb0960.png)
+
 
 Script para crear la Base de dato y las tablas en mysql.
 
 Nombre de la base de datos: envio
 ![sss](https://user-images.githubusercontent.com/89054795/149599251-9b41804c-cdaf-4ddd-ad5b-55500a962ebd.png)
 
-![11](https://user-images.githubusercontent.com/89054795/149599807-1cd62272-dd2c-49a7-8d3b-064bffbb0960.png)
 
 
 
