@@ -40,12 +40,20 @@ El repositorio se realizó en 2 días y para ello se propuso dividir el proyecto
 
 ETAPA 1 :
 Plantear la lógica inicial de los problemas.
+
+
 ETAPA 2 :
 Creacion y normalizacion de bases de datos .
+
+
 ETAPA 3 :
 Plasmar la lógica en código(Api Rest) .
+
+
 ETAPA 3 :
 Consumir Api Rest (CLIENTE)
+
+
 ETAPA 4 :
 Versión final README.
 
